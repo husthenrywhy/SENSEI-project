@@ -1,0 +1,2 @@
+hugin_cmd;
+hugin_cmd_Right_view;
