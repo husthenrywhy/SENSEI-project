@@ -1,0 +1,5 @@
+Metadata on the camera poses.
+Interleaved StarCamV2 
+In tnter-axis of the parallel cameras 75mm
+The line between the parallel is pushed out 59.71 mm
+8 camera pairs rotated 45°
