@@ -1,0 +1,9 @@
+clear;clc;
+rectification_StarCam_00_adjusted;
+rectification_StarCam_01_adjusted;
+rectification_StarCam_02_adjusted;
+rectification_StarCam_03_adjusted;
+rectification_StarCam_04_adjusted;
+rectification_StarCam_05_adjusted;
+rectification_StarCam_06_adjusted;
+rectification_StarCam_07_adjusted;
